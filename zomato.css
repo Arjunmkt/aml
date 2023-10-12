@@ -1,0 +1,109 @@
+.channel-image{
+  
+  margin-top: -10px;
+  margin-left: -8px;
+  margin-right: -8px; 
+  position: relative;
+}
+.zomatoimg{
+
+  height: 570px;
+  width: 100%;
+  object-fit: cover;
+  background-size: contain;
+}
+.header{
+  position: absolute;
+  top: 9px;
+  right: 290px;
+}
+.headerpara{
+  font-size: 18px;
+  padding: 0px 22px;
+  font-family: okra, Helvetica, sans-serif;
+}
+.zomatoicon{
+  background-color: transparent;
+  position: absolute;
+  width: 285px;
+  right: 620px;
+  top: 225px;
+}
+.zomatopara{
+  font-family: Helvetica,okra, sans-serif;
+  font-size: 38px;
+  position: absolute;
+  top: 280px;
+  right: 480px;
+  width: 550px;
+  text-align: center;
+  color: rgb(241, 235, 235);
+
+}
+.textpara{
+  font-size: 20px;
+  font-family: sans-serif, Helvetica, sans-serif;
+  text-align: center;
+  display: flex ;
+
+}
+.mid{
+  font-size: 36px;
+
+}
+.india{
+  height: 35px;
+  
+}
+.midsection{
+  display: flex;
+  width: 1100px;
+  align-items: center;
+  justify-content:center;
+  font-family: sans-serif;
+  flex: 1;
+
+}
+.longtext{
+  font-family:sans-serif;
+  font-size: 20px;
+  align-content: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  margin-top: -10px;
+  flex: 1;
+  line-height: 30px;
+  color: gray;
+ 
+}
+.cities{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  margin-top: 70px;
+  width: 1100px;
+}
+.font{
+  font-size: 20px;
+  font-family: sans-serif;
+  padding-left: 25px;
+}
+.cityaarrow{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+border-width: 1px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-color: rgb(244, 240, 240);
+border-radius: 8px;
+box-shadow: 1px 1px 1px 1px rgb(224, 219, 219);
+}
+.entity{
+  padding-right:30px;
+}
+body{
+  padding-bottom:200px;
+}
